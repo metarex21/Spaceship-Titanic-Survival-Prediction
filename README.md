@@ -1,6 +1,9 @@
 # Kaggle Competition: Spaceship Titanic
 
 ![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<a href="https://www.kaggle.com/code/byomokeshsenapati/randomforest-accuracy-80-43?">
+<img alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"> </a>
 
 This repository contains my solution for the "Spaceship Titanic" Kaggle competition. The competition requires participants to predict whether passengers were transported or not on a spaceship based on various features such as age, cabin, destination, etc.
 
@@ -31,3 +34,5 @@ For more detailed code and execution, you can find my Kaggle notebook here: [Ran
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
